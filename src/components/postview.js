@@ -12,7 +12,7 @@ export default function Postview() {
     const [Indicators, setIndicators] = useState(true);
 
     useEffect(() => {
-        fetch("http://localhost:4600/posts")
+        fetch("https://instaclone-3104.onrender.com")
             .then(res => { return res.json() })
             .then(data => {
                 console.log(data);
