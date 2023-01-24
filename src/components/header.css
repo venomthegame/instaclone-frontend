@@ -1,13 +1,13 @@
 .header{
     display: inline-flex;
-    background-color: antiquewhite;
+    background-color: aqua;
 }
 h1{
     margin-right:150vh;
 }
 .topleft{
-    margin-left:15px;
+    margin-left:17px;
 }
 .topright{
-    margin-right:15px;
+    margin-right:17px;
 }
