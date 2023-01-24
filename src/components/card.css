@@ -1,0 +1,35 @@
+.card{ 
+    width:100%;
+    margin-right: 50px;
+    display: block;
+    text-align: center; 
+}
+.image{
+    width:500px;
+    height: 500px;
+    display: flex;
+    margin: auto;
+    
+}
+.dots{
+    display: block;
+    
+}
+/* .name, .location{
+    display: block;
+    float:right;
+} */
+.heart ,.plane{
+    margin: 15px;
+}
+.likes{
+    display: block;
+    
+}
+.data{
+    margin-right: 0px;
+}
+.descriptions{
+    width:100%;
+    margin:50px;
+}
